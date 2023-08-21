@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 import pandas as pd
 
 import plotly.express as px
@@ -16,10 +10,3 @@ fig = px.bar(data_frame=accountancy_membership,
              title = "Comparison of Accountancy Bodies Membership",
              color = 'Professional Bodies')
 fig.show()
-
-
-# In[ ]:
-
-
-
-
