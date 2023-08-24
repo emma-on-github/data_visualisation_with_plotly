@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 # import pandas
 
 import pandas as pd
@@ -29,10 +23,3 @@ fig = px.bar(data_frame=accountancy_membership,
 # show the bar chart
 
 fig.show()
-
-
-# In[ ]:
-
-
-
-
